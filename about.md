@@ -5,12 +5,10 @@ permalink: /about/
 ---
 
 I like building things. Some of them happen to be software.
-I'm currently helping with Machine Learning for Code at [prodo.ai](http://prodo.ai).
-It's my first time as a company founder, so I'm learning a lot!
 
 ### More Information
 
-Before prodo.ai I was at Google, contributing to the
+Before working on ML for code I was at Google, contributing to the
 [Android codebase](https://android-review.googlesource.com/q/author:sgiro%2540google.com){:target="_blank"}, where I contributed several fundamental java classes like
 [Timer](https://android-review.googlesource.com/c/platform/libcore/+/169083){:target="_blank"}
 and
